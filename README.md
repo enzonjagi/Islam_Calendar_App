@@ -17,5 +17,5 @@
 ## Technologies
 - Python and Django framework for backend development.
 - HTML, CSS, and JavaScript for frontend development.
-- PostgreSQL database to store important Islamic dates and events.
+- PostgreSQL or MongoDB database to store important Islamic dates and events.
 - Deployment on AWS EC2 instances.
