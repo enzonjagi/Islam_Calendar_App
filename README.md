@@ -19,3 +19,14 @@
 - HTML, CSS, and JavaScript for frontend development.
 - PostgreSQL or MongoDB database to store important Islamic dates and events.
 - Deployment on AWS EC2 instances.
+
+## Design Notes
+### What It Will Do
+1. The app will be designed in the Hijri calendar style and dates.
+2. The app will call Gregorian calendar dates and convert them to Hijri calendar dates.
+3. You should be able to add events to this calendar.
+4. The app will notify you if your event collides with an important Islamic date.
+### Features
+1. The calendar view.
+2. Events.
+3. Notifications.
