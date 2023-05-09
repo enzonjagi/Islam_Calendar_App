@@ -36,3 +36,7 @@
 ![calendar](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/calendarpage.png)
 ### Daily Reminders.
 ![reminders](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/reminder.png)
+
+## Application Flow
+
+## User Stories
