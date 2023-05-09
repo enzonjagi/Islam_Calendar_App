@@ -26,7 +26,12 @@
 2. The app will call Gregorian calendar dates and convert them to Hijri calendar dates.
 3. You should be able to add events to this calendar.
 4. The app will notify you if your event collides with an important Islamic date.
-### Features
-1. The calendar view.
-2. Events.
-3. Notifications.
+### UI
+1. Landing page
+![landing](/IslamicCalendarApp/Images/Landing.png)
+2. Signup/login page.
+![signup](/IslamicCalendarApp/Images/signup.png)
+3. The calendar view.
+![calendar](/IslamicCalendarApp/Images/calendarpage.png)
+4. Daily Reminders.
+![reminders](/IslamicCalendarApp/Images/reminder.png)
