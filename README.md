@@ -26,13 +26,13 @@
 2. The app will call Gregorian calendar dates and convert them to Hijri calendar dates.
 3. You should be able to add events to this calendar.
 4. The app will notify you if your event collides with an important Islamic date.
-### UI
-#### Landing page
+## UI
+### Landing page
 ![landing](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/Landing.png)
-#### Signup/login page.
+### Signup/login page.
 ![signup](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/signup.png)
-#### The calendar view 
+### The calendar view 
 - <b>Please Note: This will be the Islamic Calendar and Not Gregorian As Shown here.</b>
 ![calendar](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/calendarpage.png)
-#### Daily Reminders.
+### Daily Reminders.
 ![reminders](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/reminder.png)
