@@ -28,10 +28,10 @@
 4. The app will notify you if your event collides with an important Islamic date.
 ### UI
 1. Landing page
-![landing](/IslamicCalendarApp/Images/Landing.png)
+![landing](https://github.com/enzonjagi/Islam_Calendar_App/blob/calendarsetup/Images/Landing.png)
 2. Signup/login page.
-![signup](/IslamicCalendarApp/Images/signup.png)
+![signup](https://github.com/enzonjagi/Islam_Calendar_App/blob/calendarsetup/Images/signup.png)
 3. The calendar view.
-![calendar](/IslamicCalendarApp/Images/calendarpage.png)
+![calendar](https://github.com/enzonjagi/Islam_Calendar_App/blob/calendarsetup/Images/calendarpage.png)
 4. Daily Reminders.
-![reminders](/IslamicCalendarApp/Images/reminder.png)
+![reminders](https://github.com/enzonjagi/Islam_Calendar_App/blob/calendarsetup/Images/reminder.png)
