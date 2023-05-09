@@ -27,11 +27,12 @@
 3. You should be able to add events to this calendar.
 4. The app will notify you if your event collides with an important Islamic date.
 ### UI
-1. Landing page
+#### Landing page
 ![landing](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/Landing.png)
-2. Signup/login page.
+#### Signup/login page.
 ![signup](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/signup.png)
-3. The calendar view - <b>Please Note: This will be the Islamic Calendar and Not Gregorian As Shown here.</b>
+#### The calendar view 
+- <b>Please Note: This will be the Islamic Calendar and Not Gregorian As Shown here.</b>
 ![calendar](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/calendarpage.png)
-4. Daily Reminders.
+#### Daily Reminders.
 ![reminders](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/reminder.png)
