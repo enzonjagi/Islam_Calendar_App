@@ -31,7 +31,7 @@
 ![landing](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/Landing.png)
 2. Signup/login page.
 ![signup](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/signup.png)
-3. The calendar view.
+3. The calendar view - <b>Please Note: This will be the Islamic Calendar and Not Gregorian As Shown here.</b>
 ![calendar](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/calendarpage.png)
 4. Daily Reminders.
 ![reminders](https://github.com/enzonjagi/Islam_Calendar_App/blob/main/Images/reminder.png)
