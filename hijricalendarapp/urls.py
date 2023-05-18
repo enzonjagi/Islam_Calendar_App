@@ -4,5 +4,5 @@ from . import views
 
 
 urlpatterns = [
-    path("month/", views.hijri_month, name="month"),
+    path("", views.hijri_month, name="month"),
 ]

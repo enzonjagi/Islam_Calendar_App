@@ -43,13 +43,20 @@ def hijri_month(request):
 
     # we'll start with default values then add a feature to allow user to change these:
     # USer can supply month number in url or in a form on the page
-    year_num = 2023
-    url = f'http://api.aladhan.com/v1/gToHCalendar/{1}/{year_num}'
+
+    # Ensures the month dislayed is always the current month
+    year_num = int(datetime.now().year)
+    month = int(datetime.now().month)
+
+    # TODO Allow the user to view another month
+    url = f'http://api.aladhan.com/v1/gToHCalendar/{month}/{year_num}'
 
     # pull the data
     month = requests.get(url)
 
     # convert the month to JSON
     month_data = month.json()
+
+    print(datetime.now())
 
     return render(request, "month.html", {'month': month_data})
